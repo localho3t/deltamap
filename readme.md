@@ -1,5 +1,11 @@
 
 # Delta Map
+```
+ ____  ____  __   ____   __      __  __    __    ____ 
+(  _ \( ___)(  ) (_  _) /__\    (  \/  )  /__\  (  _ \
+ )(_) ))__)  )(__  )(  /(__)\    )    (  /(__)\  )___/
+(____/(____)(____)(__)(__)(__)  (_/\/\_)(__)(__)(__)   v.1.0.0 (Beta)
+```
 
 **Delta Map** is an automated data analysis and dataset management tool designed to assist data developers. This tool simplifies the process of analyzing, cleaning, and calculating various metrics for datasets, making it easier to maintain high-quality data pipelines and gain insights efficiently.
 
@@ -20,8 +26,8 @@
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/delta-map.git
-cd delta-map
+git clone https://github.com/yourusername/deltamap.git
+cd deltamap
 ```
 
 Then, install the required packages:
